@@ -1,0 +1,4972 @@
+{
+  "items": [
+    {
+      "contentType": "episode",
+      "itemId": "ef4c2d92-d341-4ce7-9db8-39103eb8d341",
+      "titleId": "1c121cd6-2b9f-44e7-87bc-e9d178e54cd7",
+      "seasonId": "41203221-5161-45ab-b236-3dacb00ae0d9",
+      "seriesId": "bcbf5293-daec-43c4-b520-313c373b3f6f",
+      "isDeleted": false,
+      "episodeSequenceNumber": 18,
+      "episodeSeriesSequenceNumber": 57,
+      "seasonSequenceNumber": 3,
+      "texts": [
+        {
+          "locale": "en",
+          "title": "Good Sports",
+          "sortTitle": "Good Sports",
+          "shortDescription": "Goofy learns the meaning of sportsmanship.",
+          "mediumDescription": "Goofy learns the meaning of sportsmanship.",
+          "longDescription": "Goofy takes a journey through the world of sports to learn the true meaning of Sportsmanship."
+        },
+        {
+          "locale": "es-ES",
+          "title": "Deportividad",
+          "sortTitle": "Deportividad",
+          "shortDescription": "Mickey intenta enseñar a Goofy a jugar al baloncesto con deportividad.",
+          "mediumDescription": "Mickey intenta enseñar a Goofy a jugar al baloncesto con deportividad.",
+          "longDescription": "Mickey intenta enseñar a Goofy a jugar al baloncesto con deportividad."
+        },
+        {
+          "locale": "it",
+          "title": "GIOCO LEALE",
+          "sortTitle": "GIOCO LEALE",
+          "shortDescription": "Pippo impara il significato di spirito sportivo.",
+          "mediumDescription": "Pippo impara il significato di spirito sportivo.",
+          "longDescription": "Pippo esplora il mondo degli sport per imparare il vero significato dello spirito sportivo."
+        },
+        {
+          "locale": "da",
+          "title": "GOD SPORTSÅND",
+          "sortTitle": "GOD SPORTSÅND",
+          "shortDescription": "Fedtmule lærer sportsåndens sande natur at kende.",
+          "mediumDescription": "Fedtmule lærer sportsåndens sande natur at kende.",
+          "longDescription": "Fedtmule bevæger sig gennem sportens verden for at lære sportsåndens sande natur at kende."
+        },
+        {
+          "locale": "de",
+          "title": "Sportlich und fair",
+          "sortTitle": "Sportlich und fair",
+          "shortDescription": "Goofy lernt, was Sportgeist ist.",
+          "mediumDescription": "Goofy lernt, was Sportgeist ist.",
+          "longDescription": "Goofy macht eine Tour durch die Welt des Sports, um die wahre Bedeutung von Sportsgeist zu erfahren."
+        },
+        {
+          "locale": "sv",
+          "title": "Musse Pigg I “Sportsmannaanda”",
+          "sortTitle": "Musse Pigg I “Sportsmannaanda”",
+          "shortDescription": "Långben lär sig innebörden av sportslighet.",
+          "mediumDescription": "Långben lär sig innebörden av sportslighet.",
+          "longDescription": "Långben tar en resa genom idrottsvärlden för att lära sig den verkliga betydelsen av sportslighet."
+        },
+        {
+          "locale": "pt-PT",
+          "title": "Desportivismo",
+          "sortTitle": "Desportivismo",
+          "shortDescription": "Pateta aprende o significado do espírito desportivo.",
+          "mediumDescription": "Pateta aprende o significado do espírito desportivo.",
+          "longDescription": "Pateta faz uma viagem pelo mundo do desporto para aprender o verdadeiro significado do espírito desportivo."
+        },
+        {
+          "locale": "nl",
+          "title": "Sportiviteit",
+          "sortTitle": "Sportiviteit",
+          "shortDescription": "Goofy leert hoe hij zich sportief moet gedragen.",
+          "mediumDescription": "Goofy leert hoe hij zich sportief moet gedragen.",
+          "longDescription": "Goofy verkent de sportwereld en leert hoe hij zich sportief moet gedragen."
+        },
+        {
+          "locale": "pt-BR",
+          "title": "Espírito Esportivo",
+          "sortTitle": "Espírito Esportivo",
+          "shortDescription": "Pateta aprende o significado do esportismo.",
+          "mediumDescription": "Pateta aprende o significado do esportismo.",
+          "longDescription": "Pateta realiza uma jornada pelo mundo do esporte para aprender o verdadeiro significado do esportismo."
+        },
+        {
+          "locale": "fi",
+          "title": "REILU PELI",
+          "sortTitle": "REILU PELI",
+          "shortDescription": "Hessu oppii urheiluhengen todellisen merkityksen.",
+          "mediumDescription": "Hessu oppii urheiluhengen todellisen merkityksen.",
+          "longDescription": "Hessu lähtee matkalle läpi urheilumaailman oppiakseen urheiluhengen todellisen merkityksen."
+        },
+        {
+          "locale": "en-GB",
+          "title": "Good Sports",
+          "sortTitle": "Good Sports",
+          "shortDescription": "Goofy learns the meaning of sportsmanship.",
+          "mediumDescription": "Goofy learns the meaning of sportsmanship.",
+          "longDescription": "Goofy takes a journey through the world of sports to learn the true meaning of Sportsmanship."
+        },
+        {
+          "locale": "fr-FR",
+          "title": "Mickey Mouse dans  de l'esprit sportif entre athlètes",
+          "sortTitle": "Mickey Mouse dans  de l'esprit sportif entre athlètes",
+          "shortDescription": "Dingo apprend ce que signifie l'esprit d'équipe.",
+          "mediumDescription": "Dingo apprend ce que signifie l'esprit d'équipe.",
+          "longDescription": "Dingo découvre le monde du sport et de ce fait, la signification de l'esprit d'équipe."
+        },
+        {
+          "locale": "no",
+          "title": "God sportsånd",
+          "sortTitle": "God sportsånd",
+          "shortDescription": "Langbein lærer meningen med god sportsånd.",
+          "mediumDescription": "Langbein lærer meningen med god sportsånd.",
+          "longDescription": "Langbein prøver ut forskjellige sportsgrener og lærer seg meningen med god sportsånd."
+        },
+        {
+          "locale": "es-419",
+          "title": "Espíritu deportivo",
+          "sortTitle": "Espíritu deportivo",
+          "shortDescription": "Goofy aprende el significado del espíritu deportivo.",
+          "mediumDescription": "Con Mickey como apasionado comentarista, Goofy emprende un viaje por el mundo del deporte para aprender el verdadero significado del espíritu deportivo.",
+          "longDescription": "Con Mickey como apasionado comentarista, Goofy emprende un viaje por el mundo del deporte para aprender el verdadero significado del espíritu deportivo."
+        },
+        {
+          "locale": "ja",
+          "title": "スポーツマンシップ",
+          "sortTitle": "スポーツマンシップ",
+          "shortDescription": "グーフィーはスポーツマンシップの意味を学ぶ。",
+          "mediumDescription": "グーフィーはスポーツマンシップの意味を学ぶ。",
+          "longDescription": "グーフィーはスポーツマンシップの意味を学ぶ。"
+        }
+      ],
+      "ratings": [
+        {
+          "value": "G",
+          "system": "NCS",
+          "advisories": []
+        },
+        {
+          "value": "6",
+          "system": "Custom:DisneyPlus:Kijkwijzer",
+          "advisories": []
+        },
+        {
+          "value": "6",
+          "system": "Kijkwijzer",
+          "advisories": [
+            "A",
+            "G"
+          ]
+        },
+        {
+          "value": "G",
+          "system": "MDA",
+          "advisories": []
+        },
+        {
+          "value": "0+",
+          "system": "Custom:DisneyPlus:LATAM",
+          "advisories": []
+        },
+        {
+          "value": "L",
+          "system": "DJCTQ",
+          "advisories": []
+        },
+        {
+          "value": "TV-G",
+          "system": "TVPG",
+          "advisories": []
+        },
+        {
+          "value": "0",
+          "system": "E",
+          "advisories": []
+        },
+        {
+          "value": "G",
+          "system": "OFLC",
+          "advisories": []
+        }
+      ],
+      "credits": [
+        {
+          "name": "Paul Rudish",
+          "role": "Creator",
+          "order": 1
+        },
+        {
+          "name": "Bill Farmer",
+          "role": "Starring",
+          "order": 3
+        },
+        {
+          "name": "Tony Anselmo",
+          "role": "Starring",
+          "order": 4
+        },
+        {
+          "name": "Russi Taylor",
+          "role": "Starring",
+          "order": 2
+        },
+        {
+          "name": "Chris Diamantopoulos",
+          "role": "Starring",
+          "order": 1
+        }
+      ],
+      "images": [
+        {
+          "url": "https://prod-ripcut-delivery.disney-plus.net/v1/disney/disco/general/39CB037926598A647E76E14742FE982583699011AA58201FDF77C5D815A772DA",
+          "aspectRatio": "1.78",
+          "type": "thumbnail",
+          "locales": [
+            "de",
+            "no",
+            "fi",
+            "sv",
+            "pt-BR",
+            "es-ES",
+            "en",
+            "it",
+            "pt-PT",
+            "ja",
+            "fr-FR",
+            "da",
+            "en-GB",
+            "es-419",
+            "nl"
+          ],
+          "height": 1080,
+          "width": 1920,
+          "format": "png"
+        }
+      ],
+      "deeplinks": [
+        {
+          "type": "universalLink",
+          "action": "playMedia",
+          "url": "https://www.disneyplus.com/video/ef4c2d92-d341-4ce7-9db8-39103eb8d341",
+          "params": [
+            {
+              "field": "page",
+              "value": "media_player"
+            },
+            {
+              "field": "contentId",
+              "value": "ef4c2d92-d341-4ce7-9db8-39103eb8d341"
+            },
+            {
+              "field": "contentType",
+              "value": "Full"
+            },
+            {
+              "field": "programType",
+              "value": "episode"
+            },
+            {
+              "field": "type",
+              "value": "series"
+            },
+            {
+              "field": "id",
+              "value": "5qiGTXDGnfrX"
+            }
+          ]
+        },
+        {
+          "type": "universalLink",
+          "action": "details",
+          "url": "https://www.disneyplus.com/series/good-sports/5qiGTXDGnfrX",
+          "params": [
+            {
+              "field": "page",
+              "value": "series_details"
+            },
+            {
+              "field": "id",
+              "value": "5qiGTXDGnfrX"
+            }
+          ]
+        }
+      ],
+      "availability": [
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MX"
+          ],
+          "appears": "2020-11-16T08:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SM"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AG"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VI"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MP"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NC"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SE"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GL"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BO"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FI"
+          ],
+          "appears": "2020-09-13T21:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CL"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "US"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AU"
+          ],
+          "appears": "2019-11-18T13:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "HN"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NI"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IE"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CO"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IM"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CW"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "JM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CH"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "LU"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CR"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VG"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IS"
+          ],
+          "appears": "2020-09-14T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BQ"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SG"
+          ],
+          "appears": "2021-02-21T16:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FK"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GU"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "KN"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DK"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VA"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "EC"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AR"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "JE"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SV"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "TT"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "HT"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CA"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PY"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AI"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DO"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "YT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GB"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GY"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PT"
+          ],
+          "appears": "2020-09-14T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BZ"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SR"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FR"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GP"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MQ"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MC"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "WF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PR"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "RE"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BE"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NO"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "UY"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PE"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VE"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AW"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BL"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "TC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NL"
+          ],
+          "appears": "2019-09-03T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "KY"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MU"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "LC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GD"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DE"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NZ"
+          ],
+          "appears": "2019-11-18T08:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GG"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BB"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "UM"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BR"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GT"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "ES"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PA"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        }
+      ],
+      "family": {
+        "partnerFamilyId": "org:disney.com:radar:144886",
+        "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTQ0ODg2",
+        "parent": true,
+        "parentRef": {
+          "programId": "1c121cd6-2b9f-44e7-87bc-e9d178e54cd7",
+          "seasonId": "41203221-5161-45ab-b236-3dacb00ae0d9",
+          "seriesId": "bcbf5293-daec-43c4-b520-313c373b3f6f"
+        }
+      },
+      "alternateIds": [
+        {
+          "altId": "B398-D470-2A88-ECF9-DA4C-0",
+          "altRefType": "contentEidr"
+        },
+        {
+          "altId": "144886",
+          "altRefType": "radar"
+        },
+        {
+          "altId": "8BF8-1F02-AC32-2726-668F-O",
+          "altRefType": "titleEidr"
+        },
+        {
+          "altId": "329342",
+          "altRefType": "ctamTitleId"
+        },
+        {
+          "altId": "md:cid:org:disney.com:radar:144886",
+          "altRefType": "mddfContentId"
+        },
+        {
+          "altId": "B398-D470-2A88-ECF9-DA4C-0",
+          "altRefType": "editEidr"
+        }
+      ],
+      "isOriginal": false,
+      "subtitles": [],
+      "subtitlesForDeaf": [
+        "en"
+      ],
+      "audioTracks": [
+        {
+          "language": "es-419",
+          "trackType": "Primary",
+          "renditionName": "Español (Latinoamericano)",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "pt-PT",
+          "trackType": "Primary",
+          "renditionName": "Português",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "fi",
+          "trackType": "Primary",
+          "renditionName": "Suomi",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "de",
+          "trackType": "Primary",
+          "renditionName": "Deutsch",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "no",
+          "trackType": "Primary",
+          "renditionName": "Norsk",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "fr-FR",
+          "trackType": "Primary",
+          "renditionName": "Français",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "da",
+          "trackType": "Primary",
+          "renditionName": "Dansk",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "pt-BR",
+          "trackType": "Primary",
+          "renditionName": "Português (Brasil)",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "sv",
+          "trackType": "Primary",
+          "renditionName": "Svenska",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "nl",
+          "trackType": "Primary",
+          "renditionName": "Nederlands",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "it",
+          "trackType": "Primary",
+          "renditionName": "Italiano",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "en",
+          "trackType": "Primary",
+          "renditionName": "English",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "es-ES",
+          "trackType": "Primary",
+          "renditionName": "Español",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        }
+      ],
+      "resolution": "HD",
+      "targetLanguage": "en",
+      "originalLanguage": "en",
+      "runTimeSeconds": "317",
+      "releases": [
+        {
+          "releaseType": "original",
+          "releaseDate": "2016-07-29",
+          "releaseYear": "2016"
+        }
+      ],
+      "productionCountry": "US"
+    },
+    {
+      "contentType": "episode",
+      "itemId": "6136f4dd-0896-4029-854e-1d875b74e756",
+      "titleId": "1ae15d2a-1455-4d0d-999d-81d90f371a27",
+      "seasonId": "41203221-5161-45ab-b236-3dacb00ae0d9",
+      "seriesId": "bcbf5293-daec-43c4-b520-313c373b3f6f",
+      "isDeleted": false,
+      "episodeSequenceNumber": 15,
+      "episodeSeriesSequenceNumber": 54,
+      "seasonSequenceNumber": 3,
+      "texts": [
+        {
+          "locale": "en",
+          "title": "Entombed",
+          "sortTitle": "Entombed",
+          "shortDescription": "Mickey and Minnie are separated in an Egyptian tomb!",
+          "mediumDescription": "Mickey and Minnie are separated in an Egyptian tomb!",
+          "longDescription": "Mickey and Minnie get separated inside a spooky tomb located under the Valley of the Kings in Egypt."
+        },
+        {
+          "locale": "it",
+          "title": "AVVENTURA IN EGITTO",
+          "sortTitle": "AVVENTURA IN EGITTO",
+          "shortDescription": "Topolino e Minni vengono separati in una tomba egizia!",
+          "mediumDescription": "Topolino e Minni vengono separati in una tomba egizia!",
+          "longDescription": "Topolino e Minni vengono separati dentro una tomba paurosa sotto la Valle dei Re in Egitto."
+        },
+        {
+          "locale": "da",
+          "title": "GRAVALVORLIGT EVENTYR",
+          "sortTitle": "GRAVALVORLIGT EVENTYR",
+          "shortDescription": "Mickey og Minnie skilles fra hinanden i et egyptisk gravkammer.",
+          "mediumDescription": "Mickey og Minnie skilles fra hinanden i et egyptisk gravkammer.",
+          "longDescription": "Mickey og Minnie skilles fra hinanden i et uhyggeligt gravkammer under Kongernes Dal i Egypten."
+        },
+        {
+          "locale": "de",
+          "title": "Das Pharaonengrab",
+          "sortTitle": "Das Pharaonengrab",
+          "shortDescription": "Micky und Minnie werden in einem ägyptischen Grab getrennt.",
+          "mediumDescription": "Micky und Minnie werden in einem ägyptischen Grab getrennt!",
+          "longDescription": "Micky und Minnie werden in einem gruseligen ägyptischen Grab im Tal der Könige getrennt!"
+        },
+        {
+          "locale": "sv",
+          "title": "Musse Pigg I “Begravd”",
+          "sortTitle": "Musse Pigg I “Begravd”",
+          "shortDescription": "Musse och Mimmi blir separerade i en egyptiskt grav!",
+          "mediumDescription": "Musse och Mimmi blir separerade i en egyptiskt grav!",
+          "longDescription": "Musse och Mimmi separeras inuti en skrämmande grav som ligger under Konungarnas grav i Egypten."
+        },
+        {
+          "locale": "no",
+          "title": "Begravet",
+          "sortTitle": "Begravet",
+          "shortDescription": "Mikke og Minni blir adskilt i et egyptisk gravkammer!",
+          "mediumDescription": "Mikke og Minni blir adskilt i et egyptisk gravkammer!",
+          "longDescription": "Mikke og Minni blir adskilt i et skummelt gravkammer under Kongedalen i Egypt."
+        },
+        {
+          "locale": "fr-FR",
+          "title": "Mickey Mouse dans pris au piège",
+          "sortTitle": "Mickey Mouse dans pris au piège",
+          "shortDescription": "Mickey et Minnie sont séparés dans une tombe en Égypte.",
+          "mediumDescription": "Mickey et Minnie sont séparés dans une tombe en Égypte.",
+          "longDescription": "Mickey et Minnie se font séparer dans une tombe effrayante située sous la Vallée des Rois en Égypte."
+        },
+        {
+          "locale": "pt-PT",
+          "title": "O Túmulo",
+          "sortTitle": "O Túmulo",
+          "shortDescription": "Mickey e Minnie separam-se num túmulo egípcio.",
+          "mediumDescription": "Mickey e Minnie separam-se num túmulo egípcio.",
+          "longDescription": "Mickey e Minnie separam-se dentro de um túmulo assustador localizado sob o Vale dos Reis, no Egito."
+        },
+        {
+          "locale": "nl",
+          "title": "Tombe-tombola",
+          "sortTitle": "Tombe-tombola",
+          "shortDescription": "Mickey en Minnie worden van elkaar gescheiden in een Egyptische tombe.",
+          "mediumDescription": "Mickey en Minnie worden van elkaar gescheiden in een Egyptische tombe.",
+          "longDescription": "Mickey en Minnie worden van elkaar gescheiden in een griezelige tombe onder de Vallei der Koningen in Egypte."
+        },
+        {
+          "locale": "es-ES",
+          "title": "La tumba",
+          "sortTitle": "La tumba",
+          "shortDescription": "Mickey se lleva a Minnie de aventuras a Egipto. Al final Mickey se pierde y Minnie encuentra un tesoro.",
+          "mediumDescription": "Mickey se lleva a Minnie de aventuras a Egipto. Al final Mickey se pierde y Minnie encuentra un tesoro.",
+          "longDescription": "Mickey se lleva a Minnie de aventuras a Egipto. Al final Mickey se pierde y Minnie encuentra un tesoro."
+        },
+        {
+          "locale": "fi",
+          "title": "HAUDANVAKAVA SEIKKAILU",
+          "sortTitle": "HAUDANVAKAVA SEIKKAILU",
+          "shortDescription": "Mikki ja Minni joutuvat erilleen egyptiläisessä haudassa!",
+          "mediumDescription": "Mikki ja Minni joutuvat erilleen egyptiläisessä haudassa!",
+          "longDescription": "Mikki ja Minni joutuvat erilleen Egyptin Kuninkaiden Laaksossa sijaitsevassa pelottavassa haudassa."
+        },
+        {
+          "locale": "pt-BR",
+          "title": "Na Tumba",
+          "sortTitle": "Na Tumba",
+          "shortDescription": "Mickey e Minnie se separam dentro de uma tumba egípcia.",
+          "mediumDescription": "Mickey e Minnie se separam dentro de uma tumba egípcia.",
+          "longDescription": "Mickey e Minnie se separam dentro de uma tumba assustadora localizada sob o Vale dos Reis no Egito."
+        },
+        {
+          "locale": "en-GB",
+          "title": "Entombed",
+          "sortTitle": "Entombed",
+          "shortDescription": "Mickey and Minnie are separated in an Egyptian tomb!",
+          "mediumDescription": "Mickey and Minnie are separated in an Egyptian tomb!",
+          "longDescription": "Mickey and Minnie get separated inside a spooky tomb located under the Valley of the Kings in Egypt."
+        },
+        {
+          "locale": "es-419",
+          "title": "En la tumba",
+          "sortTitle": "En la tumba",
+          "shortDescription": "¡Mickey y Minnie se pierden en una tumba egipcia!",
+          "mediumDescription": "Mickey y Minnie se pierden dentro de una tumba ubicada debajo del Valle de los Reyes, en Egipto. Mientras Minnie vive como emperatriz, Mickey tendrá que lidiar con la oscuridad, serpientes y otros peligros.",
+          "longDescription": "Mickey y Minnie se pierden dentro de una tumba ubicada debajo del Valle de los Reyes, en Egipto. Mientras Minnie vive como emperatriz, Mickey tendrá que lidiar con la oscuridad, serpientes y otros peligros."
+        },
+        {
+          "locale": "ja",
+          "title": "恐怖の宝探し",
+          "sortTitle": "恐怖の宝探し",
+          "shortDescription": "ミッキーとミニーは、エジプトの埋葬室ではぐれてしまう！",
+          "mediumDescription": "ミッキーとミニーは、エジプトの埋葬室ではぐれてしまう！",
+          "longDescription": "ミッキーとミニーはエジプトの王家の谷にある不気味な埋葬室ではぐれてしまう。"
+        }
+      ],
+      "ratings": [
+        {
+          "value": "G",
+          "system": "NCS",
+          "advisories": []
+        },
+        {
+          "value": "6",
+          "system": "Custom:DisneyPlus:Kijkwijzer",
+          "advisories": []
+        },
+        {
+          "value": "6",
+          "system": "Kijkwijzer",
+          "advisories": [
+            "A",
+            "G"
+          ]
+        },
+        {
+          "value": "G",
+          "system": "MDA",
+          "advisories": []
+        },
+        {
+          "value": "0+",
+          "system": "Custom:DisneyPlus:LATAM",
+          "advisories": []
+        },
+        {
+          "value": "L",
+          "system": "DJCTQ",
+          "advisories": []
+        },
+        {
+          "value": "TV-G",
+          "system": "TVPG",
+          "advisories": []
+        },
+        {
+          "value": "0",
+          "system": "E",
+          "advisories": []
+        },
+        {
+          "value": "G",
+          "system": "OFLC",
+          "advisories": []
+        }
+      ],
+      "credits": [
+        {
+          "name": "Paul Rudish",
+          "role": "Creator",
+          "order": 1
+        },
+        {
+          "name": "Bill Farmer",
+          "role": "Starring",
+          "order": 3
+        },
+        {
+          "name": "Tony Anselmo",
+          "role": "Starring",
+          "order": 4
+        },
+        {
+          "name": "Russi Taylor",
+          "role": "Starring",
+          "order": 2
+        },
+        {
+          "name": "Chris Diamantopoulos",
+          "role": "Starring",
+          "order": 1
+        }
+      ],
+      "images": [
+        {
+          "url": "https://prod-ripcut-delivery.disney-plus.net/v1/disney/disco/general/744C59F71DAD9FE31006182E17BFD24DFEE01736B30FCD2AB48024FB6328A59A",
+          "aspectRatio": "1.78",
+          "type": "thumbnail",
+          "locales": [
+            "de",
+            "no",
+            "fi",
+            "sv",
+            "pt-BR",
+            "es-ES",
+            "en",
+            "it",
+            "pt-PT",
+            "ja",
+            "fr-FR",
+            "da",
+            "en-GB",
+            "nl",
+            "es-419"
+          ],
+          "height": 1080,
+          "width": 1920,
+          "format": "png"
+        }
+      ],
+      "deeplinks": [
+        {
+          "type": "universalLink",
+          "action": "playMedia",
+          "url": "https://www.disneyplus.com/video/6136f4dd-0896-4029-854e-1d875b74e756",
+          "params": [
+            {
+              "field": "page",
+              "value": "media_player"
+            },
+            {
+              "field": "contentId",
+              "value": "6136f4dd-0896-4029-854e-1d875b74e756"
+            },
+            {
+              "field": "contentType",
+              "value": "Full"
+            },
+            {
+              "field": "programType",
+              "value": "episode"
+            },
+            {
+              "field": "type",
+              "value": "series"
+            },
+            {
+              "field": "id",
+              "value": "5qiGTXDGnfrX"
+            }
+          ]
+        },
+        {
+          "type": "universalLink",
+          "action": "details",
+          "url": "https://www.disneyplus.com/series/entombed/5qiGTXDGnfrX",
+          "params": [
+            {
+              "field": "page",
+              "value": "series_details"
+            },
+            {
+              "field": "id",
+              "value": "5qiGTXDGnfrX"
+            }
+          ]
+        }
+      ],
+      "availability": [
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MX"
+          ],
+          "appears": "2020-11-16T08:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SM"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AG"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VI"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MP"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NC"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SE"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GL"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BO"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FI"
+          ],
+          "appears": "2020-09-13T21:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CL"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "US"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AU"
+          ],
+          "appears": "2019-11-18T13:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "HN"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NI"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IE"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CO"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IM"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CW"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "JM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CH"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "LU"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CR"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VG"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IS"
+          ],
+          "appears": "2020-09-14T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BQ"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SG"
+          ],
+          "appears": "2021-02-21T16:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FK"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GU"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "KN"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DK"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VA"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "EC"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AR"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "JE"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SV"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "TT"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "HT"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CA"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PY"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AI"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DO"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "YT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GB"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GY"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PT"
+          ],
+          "appears": "2020-09-14T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BZ"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SR"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FR"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GP"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MQ"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MC"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "WF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PR"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "RE"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BE"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NO"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "UY"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PE"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VE"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AW"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BL"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "TC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NL"
+          ],
+          "appears": "2019-09-03T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "KY"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MU"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "LC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GD"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DE"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NZ"
+          ],
+          "appears": "2019-11-18T08:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GG"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BB"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "UM"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BR"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GT"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "ES"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PA"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        }
+      ],
+      "family": {
+        "partnerFamilyId": "org:disney.com:radar:144884",
+        "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTQ0ODg0",
+        "parent": true,
+        "parentRef": {
+          "programId": "1ae15d2a-1455-4d0d-999d-81d90f371a27",
+          "seasonId": "41203221-5161-45ab-b236-3dacb00ae0d9",
+          "seriesId": "bcbf5293-daec-43c4-b520-313c373b3f6f"
+        }
+      },
+      "alternateIds": [
+        {
+          "altId": "D6A6-1BDB-1B2F-AABC-6F2D-6",
+          "altRefType": "contentEidr"
+        },
+        {
+          "altId": "md:cid:org:disney.com:radar:144884",
+          "altRefType": "mddfContentId"
+        },
+        {
+          "altId": "220278",
+          "altRefType": "ctamTitleId"
+        },
+        {
+          "altId": "1EE9-6E32-78AC-47CB-8F64-U",
+          "altRefType": "titleEidr"
+        },
+        {
+          "altId": "144884",
+          "altRefType": "radar"
+        },
+        {
+          "altId": "D6A6-1BDB-1B2F-AABC-6F2D-6",
+          "altRefType": "editEidr"
+        }
+      ],
+      "isOriginal": false,
+      "subtitles": [],
+      "subtitlesForDeaf": [
+        "en"
+      ],
+      "audioTracks": [
+        {
+          "language": "es-419",
+          "trackType": "Primary",
+          "renditionName": "Español (Latinoamericano)",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "pt-PT",
+          "trackType": "Primary",
+          "renditionName": "Português",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "fi",
+          "trackType": "Primary",
+          "renditionName": "Suomi",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "de",
+          "trackType": "Primary",
+          "renditionName": "Deutsch",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "no",
+          "trackType": "Primary",
+          "renditionName": "Norsk",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "fr-FR",
+          "trackType": "Primary",
+          "renditionName": "Français",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "da",
+          "trackType": "Primary",
+          "renditionName": "Dansk",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "pt-BR",
+          "trackType": "Primary",
+          "renditionName": "Português (Brasil)",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "sv",
+          "trackType": "Primary",
+          "renditionName": "Svenska",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "nl",
+          "trackType": "Primary",
+          "renditionName": "Nederlands",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "it",
+          "trackType": "Primary",
+          "renditionName": "Italiano",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "en",
+          "trackType": "Primary",
+          "renditionName": "English",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "es-ES",
+          "trackType": "Primary",
+          "renditionName": "Español",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        }
+      ],
+      "resolution": "HD",
+      "targetLanguage": "en",
+      "originalLanguage": "en",
+      "runTimeSeconds": "345",
+      "releases": [
+        {
+          "releaseType": "original",
+          "releaseDate": "2016-05-13",
+          "releaseYear": "2016"
+        }
+      ],
+      "productionCountry": "US"
+    },
+    {
+      "contentType": "episode",
+      "itemId": "62fd2e64-501c-4d92-ab67-8a429c988d5a",
+      "titleId": "9117f71d-c195-486c-8457-98468f6d6b7c",
+      "seasonId": "41203221-5161-45ab-b236-3dacb00ae0d9",
+      "seriesId": "bcbf5293-daec-43c4-b520-313c373b3f6f",
+      "isDeleted": false,
+      "episodeSequenceNumber": 13,
+      "episodeSeriesSequenceNumber": 52,
+      "seasonSequenceNumber": 3,
+      "texts": [
+        {
+          "locale": "de",
+          "title": "Der Socken-Klau",
+          "sortTitle": "Der Socken-Klau",
+          "shortDescription": "Minnie will einen Sockendieb fangen.",
+          "mediumDescription": "Minnie will einen Sockendieb fangen.",
+          "longDescription": "Minnie strickt einen Plan, um einen fiesen Sockendieb zu fangen."
+        },
+        {
+          "locale": "en",
+          "title": "Sock Burgler",
+          "sortTitle": "Sock Burgler",
+          "shortDescription": "Minnie tries to catch a sock thief.",
+          "mediumDescription": "Minnie tries to catch a sock thief.",
+          "longDescription": "Minnie knits a plan to catch a dastardly villain who is stealing everyone's socks."
+        },
+        {
+          "locale": "it",
+          "title": "IL LADRO DI CALZINI",
+          "sortTitle": "IL LADRO DI CALZINI",
+          "shortDescription": "Minni cerca di catturare un ladro di calzini.",
+          "mediumDescription": "Minni cerca di catturare un ladro di calzini.",
+          "longDescription": "Minni elabora un piano per smascherare il responsabile del furto di calzini."
+        },
+        {
+          "locale": "da",
+          "title": "SOKKETYVEN",
+          "sortTitle": "SOKKETYVEN",
+          "shortDescription": "Minnie forsøger at fange en sokketyv.",
+          "mediumDescription": "Minnie forsøger at fange en sokketyv.",
+          "longDescription": "Minnie lægger planer om at fange en nedrig skurk, som stjæler folks sokker."
+        },
+        {
+          "locale": "sv",
+          "title": "Mimmi Pigg i “Strump-tjuven”",
+          "sortTitle": "Mimmi Pigg i “Strump-tjuven”",
+          "shortDescription": "Mimmi försöker fånga en strumpstjuv.",
+          "mediumDescription": "Mimmi försöker fånga en strumpstjuv.",
+          "longDescription": "Mimmi kommer på en plan för att fånga en skurk som stjäl allas strumpor."
+        },
+        {
+          "locale": "pt-PT",
+          "title": "O Ladrão de Meias",
+          "sortTitle": "O Ladrão de Meias",
+          "shortDescription": "Minnie tenta apanhar um ladrão de meias.",
+          "mediumDescription": "Minnie tenta apanhar um ladrão de meias.",
+          "longDescription": "Minnie faz um plano para apanhar um vilão covarde que anda a roubar as meias de toda a gente."
+        },
+        {
+          "locale": "nl",
+          "title": "De Sokkendief",
+          "sortTitle": "De Sokkendief",
+          "shortDescription": "Minnie probeert een sokendief in de kraag te grijpen.",
+          "mediumDescription": "Minnie probeert een sokendief in de kraag te grijpen.",
+          "longDescription": "Minnie bedenkt een plan om een laffe schurk te pakken die ieders sokken steelt."
+        },
+        {
+          "locale": "es-ES",
+          "title": "El ladrón de calcetines",
+          "sortTitle": "El ladrón de calcetines",
+          "shortDescription": "Minnie intenta atrapar a un ladrón de calcetines que ha estado robando un calcetín a todos los vecinos del pueblo.",
+          "mediumDescription": "Minnie intenta atrapar a un ladrón de calcetines que ha estado robando un calcetín a todos los vecinos del pueblo.",
+          "longDescription": "Minnie intenta atrapar a un ladrón de calcetines que ha estado robando un calcetín a todos los vecinos del pueblo."
+        },
+        {
+          "locale": "fi",
+          "title": "SUKKAROSVO",
+          "sortTitle": "SUKKAROSVO",
+          "shortDescription": "Minni yrittää napata sukkavarkaan.",
+          "mediumDescription": "Minni yrittää napata sukkavarkaan.",
+          "longDescription": "Minni kutoo juonen napatakseen raukkamaisen rosvon, joka vie kaikkien sukat."
+        },
+        {
+          "locale": "no",
+          "title": "Sokketyv",
+          "sortTitle": "Sokketyv",
+          "shortDescription": "Minni prøver å fange en sokketyv.",
+          "mediumDescription": "Minni prøver å fange en sokketyv.",
+          "longDescription": "Minni strikker en plan for å fange en ubehagelig skurk som stjeler sokkene til alle og enhver."
+        },
+        {
+          "locale": "ja",
+          "title": "ミニーマウス！ 靴下どろぼう",
+          "sortTitle": "ミニーマウス！ 靴下どろぼう",
+          "shortDescription": "ミニーは靴下どろぼうを捕まえようとする。",
+          "mediumDescription": "ミニーは靴下どろぼうを捕まえようとする。",
+          "longDescription": "ミニーはみんなの靴下を盗む卑劣な悪党を捕まえようとする。"
+        },
+        {
+          "locale": "fr-FR",
+          "title": "Disney Minnie Mouse dans “Le mystère des chaussettes perdues”",
+          "sortTitle": "Minnie Mouse dans “Le mystère des chaussettes perdues”, Disney",
+          "shortDescription": "Minnie essaie d'attraper le voleur de chaussettes.",
+          "mediumDescription": "Minnie essaie d'attraper le voleur de chaussettes.",
+          "longDescription": "Minnie élabore un plan pour attraper un villain qui vole les chaussettes de tout le monde."
+        },
+        {
+          "locale": "pt-BR",
+          "title": "Ladrão de Meias",
+          "sortTitle": "Ladrão de Meias",
+          "shortDescription": "Minnie tenta pegar um ladrão de meias.",
+          "mediumDescription": "Minnie tenta pegar um ladrão de meias.",
+          "longDescription": "Minnie bola um plano para pegar um vilão covarde que está roubando as meias de todo mundo."
+        },
+        {
+          "locale": "en-GB",
+          "title": "Sock Burgler",
+          "sortTitle": "Sock Burgler",
+          "shortDescription": "Minnie tries to catch a sock thief.",
+          "mediumDescription": "Minnie tries to catch a sock thief.",
+          "longDescription": "Minnie knits a plan to catch a dastardly villain who is stealing everyone's socks."
+        },
+        {
+          "locale": "es-419",
+          "title": "El ladrón de calcetines",
+          "sortTitle": "El ladrón de calcetines",
+          "shortDescription": "Minnie intenta atrapar a un ladrón de calcetines.",
+          "mediumDescription": "Minnie se pone el traje de detective, ¡y de ninja!, para investigar quién le está robando los calcetines a la gente, y para atrapar a tan ruin y misterioso villano.",
+          "longDescription": "Minnie se pone el traje de detective, ¡y de ninja!, para investigar quién le está robando los calcetines a la gente, y para atrapar a tan ruin y misterioso villano."
+        }
+      ],
+      "ratings": [
+        {
+          "value": "G",
+          "system": "NCS",
+          "advisories": []
+        },
+        {
+          "value": "6",
+          "system": "Custom:DisneyPlus:Kijkwijzer",
+          "advisories": []
+        },
+        {
+          "value": "6",
+          "system": "Kijkwijzer",
+          "advisories": [
+            "A",
+            "G"
+          ]
+        },
+        {
+          "value": "G",
+          "system": "MDA",
+          "advisories": []
+        },
+        {
+          "value": "0+",
+          "system": "Custom:DisneyPlus:LATAM",
+          "advisories": []
+        },
+        {
+          "value": "L",
+          "system": "DJCTQ",
+          "advisories": []
+        },
+        {
+          "value": "TV-G",
+          "system": "TVPG",
+          "advisories": []
+        },
+        {
+          "value": "0",
+          "system": "E",
+          "advisories": []
+        },
+        {
+          "value": "G",
+          "system": "OFLC",
+          "advisories": []
+        }
+      ],
+      "credits": [
+        {
+          "name": "Paul Rudish",
+          "role": "Creator",
+          "order": 1
+        },
+        {
+          "name": "Bill Farmer",
+          "role": "Starring",
+          "order": 3
+        },
+        {
+          "name": "Tony Anselmo",
+          "role": "Starring",
+          "order": 4
+        },
+        {
+          "name": "Russi Taylor",
+          "role": "Starring",
+          "order": 2
+        },
+        {
+          "name": "Chris Diamantopoulos",
+          "role": "Starring",
+          "order": 1
+        }
+      ],
+      "images": [
+        {
+          "url": "https://prod-ripcut-delivery.disney-plus.net/v1/disney/disco/general/543EEDF370564FD9D5FD68FB7CC1DE39ACB41F615084AB3CB46C5E87BACCE99A",
+          "aspectRatio": "1.78",
+          "type": "thumbnail",
+          "locales": [
+            "de",
+            "no",
+            "fi",
+            "sv",
+            "pt-BR",
+            "en",
+            "es-ES",
+            "it",
+            "pt-PT",
+            "ja",
+            "fr-FR",
+            "da",
+            "nl",
+            "en-GB",
+            "es-419"
+          ],
+          "height": 1080,
+          "width": 1920,
+          "format": "png"
+        }
+      ],
+      "deeplinks": [
+        {
+          "type": "universalLink",
+          "action": "playMedia",
+          "url": "https://www.disneyplus.com/video/62fd2e64-501c-4d92-ab67-8a429c988d5a",
+          "params": [
+            {
+              "field": "page",
+              "value": "media_player"
+            },
+            {
+              "field": "contentId",
+              "value": "62fd2e64-501c-4d92-ab67-8a429c988d5a"
+            },
+            {
+              "field": "contentType",
+              "value": "Full"
+            },
+            {
+              "field": "programType",
+              "value": "episode"
+            },
+            {
+              "field": "type",
+              "value": "series"
+            },
+            {
+              "field": "id",
+              "value": "5qiGTXDGnfrX"
+            }
+          ]
+        },
+        {
+          "type": "universalLink",
+          "action": "details",
+          "url": "https://www.disneyplus.com/series/sock-burgler/5qiGTXDGnfrX",
+          "params": [
+            {
+              "field": "page",
+              "value": "series_details"
+            },
+            {
+              "field": "id",
+              "value": "5qiGTXDGnfrX"
+            }
+          ]
+        }
+      ],
+      "availability": [
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MX"
+          ],
+          "appears": "2020-11-16T08:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SM"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AG"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VI"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MP"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NC"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SE"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GL"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BO"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FI"
+          ],
+          "appears": "2020-09-13T21:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CL"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "US"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AU"
+          ],
+          "appears": "2019-11-18T13:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "HN"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NI"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IE"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CO"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IM"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CW"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "JM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CH"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "LU"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CR"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VG"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IS"
+          ],
+          "appears": "2020-09-14T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BQ"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SG"
+          ],
+          "appears": "2021-02-21T16:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FK"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GU"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "KN"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DK"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VA"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "EC"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AR"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "JE"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SV"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "TT"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "HT"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CA"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PY"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AI"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DO"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "YT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GB"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GY"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PT"
+          ],
+          "appears": "2020-09-14T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BZ"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SR"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FR"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GP"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MQ"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MC"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "WF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PR"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "RE"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BE"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NO"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "UY"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PE"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VE"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AW"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BL"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "TC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NL"
+          ],
+          "appears": "2019-09-03T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "KY"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MU"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "LC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GD"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DE"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NZ"
+          ],
+          "appears": "2019-11-18T08:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GG"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BB"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "UM"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BR"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GT"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "ES"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PA"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        }
+      ],
+      "family": {
+        "partnerFamilyId": "org:disney.com:radar:144880",
+        "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTQ0ODgw",
+        "parent": true,
+        "parentRef": {
+          "programId": "9117f71d-c195-486c-8457-98468f6d6b7c",
+          "seasonId": "41203221-5161-45ab-b236-3dacb00ae0d9",
+          "seriesId": "bcbf5293-daec-43c4-b520-313c373b3f6f"
+        }
+      },
+      "alternateIds": [
+        {
+          "altId": "46E5-EFB7-7A2E-AA42-91FF-E",
+          "altRefType": "contentEidr"
+        },
+        {
+          "altId": "md:cid:org:disney.com:radar:144880",
+          "altRefType": "mddfContentId"
+        },
+        {
+          "altId": "902F-E495-71EE-B983-3734-P",
+          "altRefType": "titleEidr"
+        },
+        {
+          "altId": "144880",
+          "altRefType": "radar"
+        },
+        {
+          "altId": "227915",
+          "altRefType": "ctamTitleId"
+        },
+        {
+          "altId": "46E5-EFB7-7A2E-AA42-91FF-E",
+          "altRefType": "editEidr"
+        }
+      ],
+      "isOriginal": false,
+      "subtitles": [],
+      "subtitlesForDeaf": [
+        "en"
+      ],
+      "audioTracks": [
+        {
+          "language": "es-419",
+          "trackType": "Primary",
+          "renditionName": "Español (Latinoamericano)",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "pt-PT",
+          "trackType": "Primary",
+          "renditionName": "Português",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "fi",
+          "trackType": "Primary",
+          "renditionName": "Suomi",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "de",
+          "trackType": "Primary",
+          "renditionName": "Deutsch",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "no",
+          "trackType": "Primary",
+          "renditionName": "Norsk",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "fr-FR",
+          "trackType": "Primary",
+          "renditionName": "Français",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "da",
+          "trackType": "Primary",
+          "renditionName": "Dansk",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "pt-BR",
+          "trackType": "Primary",
+          "renditionName": "Português (Brasil)",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "sv",
+          "trackType": "Primary",
+          "renditionName": "Svenska",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "nl",
+          "trackType": "Primary",
+          "renditionName": "Nederlands",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "it",
+          "trackType": "Primary",
+          "renditionName": "Italiano",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "en",
+          "trackType": "Primary",
+          "renditionName": "English",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "es-ES",
+          "trackType": "Primary",
+          "renditionName": "Español",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        }
+      ],
+      "resolution": "HD",
+      "targetLanguage": "en",
+      "originalLanguage": "en",
+      "runTimeSeconds": "333",
+      "releases": [
+        {
+          "releaseType": "original",
+          "releaseDate": "2016-04-15",
+          "releaseYear": "2016"
+        }
+      ],
+      "productionCountry": "US"
+    },
+    {
+      "contentType": "episode",
+      "itemId": "de84f12d-ad30-40f3-9297-68b0b9646ada",
+      "titleId": "2f594736-f66b-4b3c-8564-6b966ba7a664",
+      "seasonId": "41203221-5161-45ab-b236-3dacb00ae0d9",
+      "seriesId": "bcbf5293-daec-43c4-b520-313c373b3f6f",
+      "isDeleted": false,
+      "episodeSequenceNumber": 3,
+      "episodeSeriesSequenceNumber": 42,
+      "seasonSequenceNumber": 3,
+      "texts": [
+        {
+          "locale": "en",
+          "title": "Wish Upon A Coin",
+          "sortTitle": "Wish Upon A Coin",
+          "shortDescription": "Pete steals coins, and wishes, from a wishing well.",
+          "mediumDescription": "Pete steals coins, and wishes, from a wishing well.",
+          "longDescription": "Mickey and Minnie's wish to live happily ever after is put in danger after Pete steals all the coins from the wishing well."
+        },
+        {
+          "locale": "es-ES",
+          "title": "Pide un deseo",
+          "sortTitle": "Pide un deseo",
+          "shortDescription": "Pete roba las monedas del pozo de los deseos y Mickey debe recuperarlas. Mientras, Minnie intenta tranquilizar a los siete enanitos y a Goofy.",
+          "mediumDescription": "Pete roba las monedas del pozo de los deseos y Mickey debe recuperarlas. Mientras, Minnie intenta tranquilizar a los siete enanitos y a Goofy.",
+          "longDescription": "Pete roba las monedas del pozo de los deseos y Mickey debe recuperarlas. Mientras, Minnie intenta tranquilizar a los siete enanitos y a Goofy."
+        },
+        {
+          "locale": "it",
+          "title": "IL POZZO DEI DESIDERI",
+          "sortTitle": "IL POZZO DEI DESIDERI",
+          "shortDescription": "Gambadilegno ruba le monetine e i desideri da un pozzo dei desideri.",
+          "mediumDescription": "Gambadilegno ruba le monetine e i desideri da un pozzo dei desideri.",
+          "longDescription": "Il desiderio di Topolino e Minni di vivere per sempre felici e contenti è a rischio dopo che Gambadilegno ruba tutte le monetine dal pozzo dei desideri."
+        },
+        {
+          "locale": "da",
+          "title": "ØNSKEBRØNDEN",
+          "sortTitle": "ØNSKEBRØNDEN",
+          "shortDescription": "Sorteper stjæler mønter, og ønsker, fra en ønskebrønd.",
+          "mediumDescription": "Sorteper stjæler mønter, og ønsker, fra en ønskebrønd.",
+          "longDescription": "Mickey og Minnie ønske om at leve lykkeligt til deres dages ende sættes på spil, som Sorteper stjæler alle mønterne i ønskebrønden."
+        },
+        {
+          "locale": "de",
+          "title": "Die gestohlenen Wünsche",
+          "sortTitle": "Die gestohlenen Wünsche",
+          "shortDescription": "Karlo klaut Münzen und Wünsche aus einem Wunschbrunnen.",
+          "mediumDescription": "Karlo klaut Münzen und Wünsche aus einem Wunschbrunnen.",
+          "longDescription": "Mickys und Minnies Wunsch auf ewiges Glück ist in Gefahr, als Karlo Münzen und Wünsche aus einem Wunschbrunnen klaut."
+        },
+        {
+          "locale": "fi",
+          "title": "LANTTI TOIVEEN TOTEUTTAA",
+          "sortTitle": "LANTTI TOIVEEN TOTEUTTAA",
+          "shortDescription": "Pekka varastaa kolikot - ja toiveet - toivomuskaivosta.",
+          "mediumDescription": "Pekka varastaa kolikot - ja toiveet - toivomuskaivosta.",
+          "longDescription": "Mikin ja Minnin toive elää elämänsä onnellisina loppuun saakka vaarantuu, kun Pekka varastaa kaikki toivomuskaivon kolikot."
+        },
+        {
+          "locale": "sv",
+          "title": "Musse Pigg i “Önskebrunnen\"",
+          "sortTitle": "Musse Pigg i “Önskebrunnen\"",
+          "shortDescription": "Svarte Petter stjäl mynt och önskningar från en önskebrunn.",
+          "mediumDescription": "Svarte Petter stjäl mynt och önskningar från en önskebrunn.",
+          "longDescription": "Musse och Mimmis önskan att leva lyckliga i alla sina dagar är i fara efter att Svarte Petter stjäl alla mynt från önskebrunnen."
+        },
+        {
+          "locale": "ja",
+          "title": "コインに願いを",
+          "sortTitle": "コインに願いを",
+          "shortDescription": "ピートが願いが叶う井戸からみんなのコインを盗んでしまう。",
+          "mediumDescription": "ピートが願いが叶う井戸からみんなのコインを盗んでしまう。",
+          "longDescription": "ミッキーとミニーは、ずっと幸せに暮らせるように願いが叶う井戸にコインを投げるが、ピートが井戸からすべてのコインを盗んでしまう。"
+        },
+        {
+          "locale": "pt-PT",
+          "title": "Pede um Desejo",
+          "sortTitle": "Pede um Desejo",
+          "shortDescription": "Pete rouba moedas, e desejos, de um poço dos desejos.",
+          "mediumDescription": "Pete rouba moedas, e desejos, de um poço dos desejos.",
+          "longDescription": "O desejo de Mickey e Minnie de viverem felizes para sempre é posto em perigo quando Pete rouba todas as moedas do poço dos desejos."
+        },
+        {
+          "locale": "nl",
+          "title": "Wenselijk",
+          "sortTitle": "Wenselijk",
+          "shortDescription": "Boris Boef steelt munten en wensen uit een wensput.",
+          "mediumDescription": "Boris Boef steelt munten en wensen uit een wensput.",
+          "longDescription": "Mickey's en Minnies wens om nog lang en gelukkig te leven komt in gevaar wanneer Boris Boef alle munten uit de wensput heeft gestolen."
+        },
+        {
+          "locale": "fr-FR",
+          "title": "Le Puits à souhaits",
+          "sortTitle": "Le Puits à souhaits",
+          "shortDescription": "Pete vole des pièces et des vœux d'un puits à souhaits.",
+          "mediumDescription": "Pete vole des pièces et des vœux d'un puits à souhaits.",
+          "longDescription": "Le rêve de Mickey et de Minnie de vivre heureux pour toujours est mis en péril quand Pete vole des pièces et des vœux d'un puits à souhaits."
+        },
+        {
+          "locale": "pt-BR",
+          "title": "O Desejo da Moeda",
+          "sortTitle": "O Desejo da Moeda",
+          "shortDescription": "Bafo rouba as moedas e os desejos de um poço dos desejos.",
+          "mediumDescription": "Bafo rouba as moedas e os desejos de um poço dos desejos.",
+          "longDescription": "O desejo de Mickey e Minnie de viverem felizes para sempre é colocado em perigo depois que o Bafo rouba todas as moedas do poço dos desejos."
+        },
+        {
+          "locale": "en-GB",
+          "title": "Wish Upon A Coin",
+          "sortTitle": "Wish Upon A Coin",
+          "shortDescription": "Pete steals coins, and wishes, from a wishing well.",
+          "mediumDescription": "Pete steals coins, and wishes, from a wishing well.",
+          "longDescription": "Mickey and Minnie's wish to live happily ever after is put in danger after Pete steals all the coins from the wishing well."
+        },
+        {
+          "locale": "es-419",
+          "title": "La moneda del deseo",
+          "sortTitle": "La moneda del deseo",
+          "shortDescription": "Pedro se roba monedas y deseos de un pozo de los deseos.",
+          "mediumDescription": "Mickey y Minnie desean vivir felices para siempre, pero tan romántico deseo corre peligro cuando el malvado Pedro roba las monedas de un pozo de los deseos.",
+          "longDescription": "Mickey y Minnie desean vivir felices para siempre, pero tan romántico deseo corre peligro cuando el malvado Pedro roba las monedas de un pozo de los deseos."
+        },
+        {
+          "locale": "no",
+          "title": "Ønske med en mynt",
+          "sortTitle": "Ønske med en mynt",
+          "shortDescription": "Svarte-Petter stjeler mynter og ønsker fra en ønskebrønn.",
+          "mediumDescription": "Svarte-Petter stjeler mynter og ønsker fra en ønskebrønn.",
+          "longDescription": "Mikke og Minnis ønske om å leve lykkelig alle sine dager blir truet når Svarte-Petter stjeler alle myntene fra ønskebrønnen."
+        }
+      ],
+      "ratings": [
+        {
+          "value": "G",
+          "system": "NCS",
+          "advisories": []
+        },
+        {
+          "value": "6",
+          "system": "Custom:DisneyPlus:Kijkwijzer",
+          "advisories": []
+        },
+        {
+          "value": "6",
+          "system": "Kijkwijzer",
+          "advisories": [
+            "A",
+            "G"
+          ]
+        },
+        {
+          "value": "G",
+          "system": "MDA",
+          "advisories": []
+        },
+        {
+          "value": "0+",
+          "system": "Custom:DisneyPlus:LATAM",
+          "advisories": []
+        },
+        {
+          "value": "L",
+          "system": "DJCTQ",
+          "advisories": []
+        },
+        {
+          "value": "TV-G",
+          "system": "TVPG",
+          "advisories": []
+        },
+        {
+          "value": "0",
+          "system": "E",
+          "advisories": []
+        },
+        {
+          "value": "G",
+          "system": "OFLC",
+          "advisories": []
+        }
+      ],
+      "credits": [
+        {
+          "name": "Paul Rudish",
+          "role": "Creator",
+          "order": 1
+        },
+        {
+          "name": "Bill Farmer",
+          "role": "Starring",
+          "order": 3
+        },
+        {
+          "name": "Tony Anselmo",
+          "role": "Starring",
+          "order": 4
+        },
+        {
+          "name": "Russi Taylor",
+          "role": "Starring",
+          "order": 2
+        },
+        {
+          "name": "Chris Diamantopoulos",
+          "role": "Starring",
+          "order": 1
+        }
+      ],
+      "images": [
+        {
+          "url": "https://prod-ripcut-delivery.disney-plus.net/v1/disney/disco/general/9F8544BD3DF352FE89F28B7F07B0DCA9C5A5E1782B1BDC275DEB3EA3B545A04E",
+          "aspectRatio": "1.78",
+          "type": "thumbnail",
+          "locales": [
+            "de",
+            "no",
+            "sv",
+            "fi",
+            "pt-BR",
+            "en",
+            "es-ES",
+            "it",
+            "pt-PT",
+            "ja",
+            "fr-FR",
+            "da",
+            "en-GB",
+            "es-419",
+            "nl"
+          ],
+          "height": 1080,
+          "width": 1920,
+          "format": "png"
+        }
+      ],
+      "deeplinks": [
+        {
+          "type": "universalLink",
+          "action": "playMedia",
+          "url": "https://www.disneyplus.com/video/de84f12d-ad30-40f3-9297-68b0b9646ada",
+          "params": [
+            {
+              "field": "page",
+              "value": "media_player"
+            },
+            {
+              "field": "contentId",
+              "value": "de84f12d-ad30-40f3-9297-68b0b9646ada"
+            },
+            {
+              "field": "contentType",
+              "value": "Full"
+            },
+            {
+              "field": "programType",
+              "value": "episode"
+            },
+            {
+              "field": "type",
+              "value": "series"
+            },
+            {
+              "field": "id",
+              "value": "5qiGTXDGnfrX"
+            }
+          ]
+        },
+        {
+          "type": "universalLink",
+          "action": "details",
+          "url": "https://www.disneyplus.com/series/wish-upon-a-coin/5qiGTXDGnfrX",
+          "params": [
+            {
+              "field": "page",
+              "value": "series_details"
+            },
+            {
+              "field": "id",
+              "value": "5qiGTXDGnfrX"
+            }
+          ]
+        }
+      ],
+      "availability": [
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MX"
+          ],
+          "appears": "2020-11-16T08:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SM"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AG"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VI"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MP"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NC"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SE"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GL"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BO"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FI"
+          ],
+          "appears": "2020-09-13T21:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CL"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "US"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AU"
+          ],
+          "appears": "2019-11-18T13:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "HN"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NI"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IE"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CO"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IM"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CW"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "JM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CH"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "LU"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CR"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VG"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IS"
+          ],
+          "appears": "2020-09-14T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BQ"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SG"
+          ],
+          "appears": "2021-02-21T16:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FK"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GU"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "KN"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DK"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VA"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "EC"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AR"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "JE"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SV"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "TT"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "HT"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "CA"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MS"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PY"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AI"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BM"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DO"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "YT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GB"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GY"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PT"
+          ],
+          "appears": "2020-09-14T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BZ"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "SR"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "FR"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GP"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MQ"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MC"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "WF"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PR"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "RE"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BE"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NO"
+          ],
+          "appears": "2020-09-13T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "UY"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PE"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "VE"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "AW"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BL"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "TC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NL"
+          ],
+          "appears": "2019-09-03T22:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "KY"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "MU"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "LC"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GD"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "DE"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "IT"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "NZ"
+          ],
+          "appears": "2019-11-18T08:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GG"
+          ],
+          "appears": "2020-03-23T00:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BB"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "UM"
+          ],
+          "appears": "2019-11-12T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "BR"
+          ],
+          "appears": "2020-11-16T05:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "GT"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "ES"
+          ],
+          "appears": "2020-03-22T23:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        },
+        {
+          "audienceType": "Region",
+          "action": "Allow",
+          "audienceValues": [
+            "PA"
+          ],
+          "appears": "2020-11-16T03:00:00Z",
+          "expires": "2254-01-01T00:00:00Z"
+        }
+      ],
+      "family": {
+        "partnerFamilyId": "org:disney.com:radar:144872",
+        "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTQ0ODcy",
+        "parent": true,
+        "parentRef": {
+          "programId": "2f594736-f66b-4b3c-8564-6b966ba7a664",
+          "seasonId": "41203221-5161-45ab-b236-3dacb00ae0d9",
+          "seriesId": "bcbf5293-daec-43c4-b520-313c373b3f6f"
+        }
+      },
+      "alternateIds": [
+        {
+          "altId": "C33A-3727-528D-56CA-B622-8",
+          "altRefType": "contentEidr"
+        },
+        {
+          "altId": "md:cid:org:disney.com:radar:144872",
+          "altRefType": "mddfContentId"
+        },
+        {
+          "altId": "341924",
+          "altRefType": "ctamTitleId"
+        },
+        {
+          "altId": "AF9D-A237-4B76-3372-E553-G",
+          "altRefType": "titleEidr"
+        },
+        {
+          "altId": "144872",
+          "altRefType": "radar"
+        },
+        {
+          "altId": "C33A-3727-528D-56CA-B622-8",
+          "altRefType": "editEidr"
+        }
+      ],
+      "isOriginal": false,
+      "subtitles": [],
+      "subtitlesForDeaf": [
+        "en"
+      ],
+      "audioTracks": [
+        {
+          "language": "es-419",
+          "trackType": "Primary",
+          "renditionName": "Español (Latinoamericano)",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "pt-PT",
+          "trackType": "Primary",
+          "renditionName": "Português",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "fi",
+          "trackType": "Primary",
+          "renditionName": "Suomi",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "de",
+          "trackType": "Primary",
+          "renditionName": "Deutsch",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "no",
+          "trackType": "Primary",
+          "renditionName": "Norsk",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "fr-FR",
+          "trackType": "Primary",
+          "renditionName": "Français",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "da",
+          "trackType": "Primary",
+          "renditionName": "Dansk",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "pt-BR",
+          "trackType": "Primary",
+          "renditionName": "Português (Brasil)",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "sv",
+          "trackType": "Primary",
+          "renditionName": "Svenska",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "nl",
+          "trackType": "Primary",
+          "renditionName": "Nederlands",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "it",
+          "trackType": "Primary",
+          "renditionName": "Italiano",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "en",
+          "trackType": "Primary",
+          "renditionName": "English",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        },
+        {
+          "language": "es-ES",
+          "trackType": "Primary",
+          "renditionName": "Español",
+          "features": [
+            "dolby_51",
+            "dolby_20"
+          ]
+        }
+      ],
+      "resolution": "HD",
+      "targetLanguage": "en",
+      "originalLanguage": "en",
+      "runTimeSeconds": "345",
+      "releases": [
+        {
+          "releaseType": "original",
+          "releaseDate": "2015-08-21",
+          "releaseYear": "2015"
+        }
+      ],
+      "productionCountry": "US"
+    }
+  ]
+}
